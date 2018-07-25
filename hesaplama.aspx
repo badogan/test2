@@ -13,7 +13,7 @@
             <asp:Label ID="Label1" runat="server" Text="Hello World"></asp:Label>
         </p>
         <p>
-            Deneme yapıyoruz</p>
+            Deneme yapıyoruz - 17:33 25 July 2018</p>
     <div>
     
     </div>
